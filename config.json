@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configvender",
+        "uuid": 18312893,
+        "checksum": "i7kyvz"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
